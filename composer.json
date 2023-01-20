@@ -1,14 +1,12 @@
 {
     "name": "razecode/base",
-    "description": "Razecode Base",
+    "description": "Razecode Base for Magento 2",
     "require": {
         "php": "^7.4.0"
     },
     "type": "magento2-module",
     "version": "1.0.0",
-    "license": [
-        "Commercial"
-    ],
+    "license": "proprietary",
     "authors": [
         {
             "name": "Razecode Technologies",
