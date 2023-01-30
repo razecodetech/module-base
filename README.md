@@ -1,7 +1,7 @@
 # Razecode Base for Magento 2
 
-[![Latest Stable Version](https://poser.pugx.org/razecode/module-base/v/stable)](https://packagist.org/packages/razecode/module-base)
-[![Total Downloads](https://poser.pugx.org/razecode/module-base/downloads)](https://packagist.org/packages/razecode/module-base)
+[![Latest Stable Version](https://poser.pugx.org/razecode/base/v/stable)](https://packagist.org/packages/razecode/base)
+[![Total Downloads](https://poser.pugx.org/razecode/base/downloads)](https://packagist.org/packages/razecode/base)
 
 ## How to install & upgrade Razecode_Base
 
