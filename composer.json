@@ -5,8 +5,10 @@
         "php": "^7.4.0"
     },
     "type": "magento2-module",
-    "version": "1.0.0",
-    "license": "proprietary",
+    "version": "1.0.1",
+    "license": [
+        "Commercial"
+    ],
     "authors": [
         {
             "name": "Razecode Technologies",
